@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DialogWithAddNumberAndMultiple</string>
+    <string name="current_number">Current Number</string>
+    <string name="_0">0</string>
+</resources>
